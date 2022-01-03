@@ -23,7 +23,7 @@ h2{
 }
 img{
     width: 50%;
-    border: 5px dotted white;
+    border: 5px dashed white;
     margin: auto;
     padding: auto;
     display: block;
@@ -44,4 +44,10 @@ p{
     font-size: 25px;
     color: white;
     
+}
+.pic{
+    margin: auto;
+    padding: auto;
+    display: block;
+
 }
